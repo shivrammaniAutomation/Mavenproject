@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="11788" started-at="2019-08-07T22:20:42Z" finished-at="2019-08-07T22:20:54Z">
+  <suite name="Command line suite" duration-ms="15274" started-at="2019-08-08T13:15:23Z" finished-at="2019-08-08T13:15:38Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="11788" started-at="2019-08-07T22:20:42Z" finished-at="2019-08-07T22:20:54Z">
+    <test name="Command line test" duration-ms="15274" started-at="2019-08-08T13:15:23Z" finished-at="2019-08-08T13:15:38Z">
       <class name="scripts.WikiTest">
-        <test-method status="PASS" signature="New1()[pri:0, instance:scripts.WikiTest@2d6e8792]" name="New1" duration-ms="5810" started-at="2019-08-07T22:20:48Z" finished-at="2019-08-07T22:20:54Z">
+        <test-method status="PASS" signature="New1()[pri:0, instance:scripts.WikiTest@2d6e8792]" name="New1" duration-ms="5922" started-at="2019-08-08T13:15:32Z" finished-at="2019-08-08T13:15:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- New1 -->
       </class> <!-- scripts.WikiTest -->
       <class name="scripts.GoogleTest">
-        <test-method status="PASS" signature="New2()[pri:0, instance:scripts.GoogleTest@17f6480]" name="New2" duration-ms="5922" started-at="2019-08-07T22:20:43Z" finished-at="2019-08-07T22:20:48Z">
+        <test-method status="PASS" signature="New2()[pri:0, instance:scripts.GoogleTest@17f6480]" name="New2" duration-ms="9288" started-at="2019-08-08T13:15:23Z" finished-at="2019-08-08T13:15:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- New2 -->

@@ -18,6 +18,8 @@ public class WikiTest
 		driver = new ChromeDriver();
 		driver.get("https://www.wikipedia.org");
 		driver.findElement(By.xpath("//a[@id='js-link-box-en']")).click();
+		driver.findElement(By.id("searchInput")).sendKeys("Selenium Software");
+		driver.findElement(By.id("searchButton")).click();
 		System.out.println("Test Completed");
 		
 
